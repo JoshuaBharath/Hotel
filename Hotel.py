@@ -96,7 +96,7 @@ while isTrue==True:
         clear()
         print("you can only enter a number")
         input()
-
+print("good bye")
     
     
         
